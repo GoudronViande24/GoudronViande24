@@ -26,6 +26,13 @@
 | --- | --- |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=onedark&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000) | ![Trophees](https://github-profile-trophy.vercel.app/?username=GoudronViande24&theme=onedark&column=3&no-frame=true&no-bg=true) |
 
+## Time spent programming | Temps passé à programer
+Data from Wakatime, based on recent activity
+
+Données de Wakatime, basées sur mon activité récente
+
+![Chart](https://wakatime.com/share/@GoudronViande24/eac34860-a215-4157-a59e-6eff96d896f9.svg)
+
 ![Snake](https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=GoudronViande24&color=06476d&style=flat-square&label=Views%20/%20Vues)
