@@ -1,16 +1,14 @@
 ## Hi! | Bonjour!
 
 ### About me
- - 🔭 I am currently working on Artivain, especially on Artibot which is one of my biggest open-source projects
- - 🌱 I am currently learning to work with Discord.js v13 and its new features (the documentation is awful)
+ - 🔭 I am currently working on Artivain
  - 🙌 I am always open to collaborations, do not hesitate to write to me!
  - ✌️ Need help with your project? Don't hesitate to write to me, I'm trying to help others!
  - 📫 You can reach me through Discord (`GoudronViande24#7211`)
  - 📍 I live in Quebec
 
 ### À propos de moi
- - 🔭 Je travaille actuellement sur Artivain, surtout sur Artibot qui est un de mes plus gros projets open-source
- - 🌱 J'apprends actuellement à travailler avec Discord.js v13 et ses nouveautés (la documentation est affreuse)
+ - 🔭 Je travaille actuellement sur Artivain
  - 🙌 Je suis toujours ouvert aux collaborations, hésitez pas à m'écrire!
  - ✌️ Besoin d'aide avec ton projet? Hésite pas à m'écrire, je cherche à aider les autres!
  - 📫 Vous pouvez me joindre par Discord (`GoudronViande24#7211`)
