@@ -33,6 +33,14 @@ Données du [Wakapi Artivain](https://wak.artivain.com), basées sur mon activit
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=thomas&api_domain=wak.artivain.com&custom_title=Wakapi%20Stats&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide_title=true)
 
+Data from Wakatime
+
+Données de Wakatime
+
+![](https://wakatime.com/share/@GoudronViande24/a5b3160d-d290-4277-9079-fe1f3b7b9e2d.svg)
+
+![](https://wakatime.com/share/@GoudronViande24/47aca539-1706-4457-8710-4f92b5718dad.svg)
+
 ![Snake](https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=GoudronViande24&color=06476d&style=for-the-badge&label=Views%20/%20Vues)
