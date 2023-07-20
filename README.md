@@ -41,6 +41,10 @@ Données de Wakatime
 
 ![](https://wakatime.com/share/@GoudronViande24/68c48bc5-3ffd-4b8c-b964-5b9603bb1b13.svg)
 
-![Snake](https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/github-snake.svg" />
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=GoudronViande24&color=06476d&style=for-the-badge&label=Views%20/%20Vues)
