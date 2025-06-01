@@ -23,28 +23,3 @@
 | Stats | Trophies  \| Trophés |
 | --- | --- |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=onedark&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000) | ![Trophees](https://github-profile-trophy.vercel.app/?username=GoudronViande24&theme=onedark&column=3&no-frame=true&no-bg=true) |
-
-## Time spent programming | Temps passé à programer
-Data from [Artivain's Wakapi](https://wak.artivain.com), based on recent activity. [Join the leaderboard](https://wak.artivain.com)
-
-Données du [Wakapi Artivain](https://wak.artivain.com), basées sur mon activité récente. [Rejoindre le leaderboard](https://wak.artivain.com)
-
-![](https://img.shields.io/endpoint?url=https://wak.artivain.com/api/compat/shields/v1/thomas/interval:last_7_days&label=This%20week&style=for-the-badge)
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=thomas&api_domain=wak.artivain.com&custom_title=Wakapi%20Stats&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide_title=true)
-
-Data from Wakatime
-
-Données de Wakatime
-
-![](https://wakatime.com/share/@GoudronViande24/a5b3160d-d290-4277-9079-fe1f3b7b9e2d.svg)
-
-![](https://wakatime.com/share/@GoudronViande24/68c48bc5-3ffd-4b8c-b964-5b9603bb1b13.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/github-snake.svg" />
-</picture>
-
-![](https://komarev.com/ghpvc/?username=GoudronViande24&color=06476d&style=for-the-badge&label=Views%20/%20Vues)
